@@ -6,7 +6,7 @@ export default function Navbar() {
         <nav class="navbar navbar-expand-lg bg-transparent fixed-top" data-bs-theme="dark">
             <div class="container-fluid">
                 <a className="navbar-brand mx-5" href="#">
-                    <img src="/images/yeti-logo.png" alt="Yeti Helados" width="48px" />
+                    <img src="./images/yeti-logo.png" alt="Yeti Helados" width="48px" />
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>

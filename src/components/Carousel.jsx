@@ -6,13 +6,13 @@ export default function Carousel() {
         <div id="carouselExample" class="carousel slide">
             <div class="carousel-inner">
                 <div class="carousel-item">
-                    <img src="/images/helado-chocolate.png" className="carousel-img" alt="Helado de chocolate" />
+                    <img src="./images/helado-chocolate.png" className="carousel-img" alt="Helado de chocolate" />
                 </div>
                 <div class="carousel-item active">
-                    <img src="/images/helado-vainilla.png" className="carousel-img" alt="Helado de vainilla" />
+                    <img src="./images/helado-vainilla.png" className="carousel-img" alt="Helado de vainilla" />
                 </div>
                 <div class="carousel-item">
-                    <img src="/images/helado-frutilla.png" className="carousel-img" alt="Helado de frutilla" />
+                    <img src="./images/helado-frutilla.png" className="carousel-img" alt="Helado de frutilla" />
                 </div>
             </div>
             <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
